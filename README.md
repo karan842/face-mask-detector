@@ -19,3 +19,5 @@ by Live Camera
  10. Visualized model accuracy and val_loss
  11. Serializing the model and implementing into python code for live camera 
  12. Using OpenCv and imutils for live implementation
+
+## Live Demo: https://twitter.com/KuchBhiKaran/status/1482999558536036352?t=RgL5Rt0QA9uZgXHCNAHKuQ&s=19
